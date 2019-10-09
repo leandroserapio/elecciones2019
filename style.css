@@ -48,10 +48,17 @@ h2{
 
 .description{
     margin-top: 40px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 .imagenes{
     height: 100%;
+}
+
+@media (min-width: 600px) {
+    
+    .arg img{
+        height: 16px;
+    }
 }
