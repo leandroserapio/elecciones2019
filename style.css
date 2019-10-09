@@ -1,0 +1,57 @@
+*{
+    text-align: center;
+    font-family: 'Merriweather', serif !important;
+}
+
+.section{
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+h2{
+    margin: 0 !important;
+}
+
+.notification{
+    padding: 1.25rem 2.5rem 1.25rem 2.5rem !important;
+}
+
+.margin-top-cards{
+    margin-top: 36px;
+}
+
+.arg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.arg img{
+    margin: 0 10px;
+    height: 40px;
+}
+
+.titulos{
+    margin-top: 36px;
+}
+
+.partidos{
+    margin-top: 24px;
+}
+
+.cuadros{
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.description{
+    margin-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.imagenes{
+    height: 100%;
+}
